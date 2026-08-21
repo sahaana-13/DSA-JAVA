@@ -20,7 +20,7 @@ public class removeduplicates {
 
         int current = arr[0];
 
-        for (int i = 1; i < n; i++) {
+        for (int i = 51; i < n; i++) {
 
             if (current != arr[i]) {
                 count++;
